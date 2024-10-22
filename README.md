@@ -33,13 +33,13 @@ Nous avons utilisé **K-Nearest Neighbors (KNN)** comme modèle de référence (
 ## Dépendances
 
 Le projet utilise les bibliothèques suivantes :
-
+```
 pandas==1.5.3
 numpy==1.23.5
 matplotlib==3.6.2
 seaborn==0.12.1
 scikit-learn==1.2.0
-
+```
 
 Pour installer les dépendances, exécutez la commande suivante :
 
