@@ -16,8 +16,8 @@ Nous avons utilisé **K-Nearest Neighbors (KNN)** comme modèle de référence (
 ## Résultats
 
 - **KNN (modèle baseline)** :
-  - **Précision (accuracy)** : ~0 (quasiment 0)
-  - **Log Loss** : 34.54 (à confirmer) 
+  - **Précision (accuracy)** : ~0
+  - **Log Loss** : 34.54
   
 - **SVM avant réglage des hyperparamètres** :
   - **Précision (accuracy)** : 0.83 
